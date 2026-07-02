@@ -21,15 +21,18 @@ These guidelines are automatically applied to all tasks performed within the Spe
 - **Commit Safety**: Ensure no temporary developer tokens or test environment variables are stored in the repo.
 
 ## 5. Automatic Custom Skill Triggering
-- **Proactive Skill Usage**: Before starting any task or whenever a change is requested, you MUST evaluate the available project skills in `.agents/skills/` and proactively read the corresponding `SKILL.md` instructions using `view_file` to guide your implementation:
-  - For project planning: read `plan-maker`
-  - For implementing new features: read `feature-creator`
-  - For frontend pages, CSS, Svelte stores, and views: read `frontend-developer` and `designer`
-  - For backend routes, load functions, and server-side logic: read `backend-developer` and `sveltekit-action-api-builder`
-  - For database operations, Drizzle ORM, schema changes, and query design: read `drizzle-schema-manager`
-  - For Vercel AI SDK setup, structured generation, or prompt templates: read `ai-generation-core`
-  - For testing flows (Vitest / Playwright): read `automated-tester`
-  - For security policies and environment validation: read `supabase-security-auditor`
-  - For code optimization and final checking: read `code-reviewer`
-  - For debugging errors or fixing test failures: read `bug-hunter`
+- **Workflow Protocol**: Setiap kali Anda memberikan instruksi tugas baru atau ketika ada perubahan pada proyek:
+  1. **Memeriksa Spesifikasi**: Saya akan selalu memeriksa file dokumentasi yang relevan di folder `docs/` terlebih dahulu (seperti `PRD.md`, `SPRINT_PLAN.md`, `DATABASE_SCHEMA.sql`, dll.) untuk memahami kebutuhan teknis dan alur sprint secara mendalam.
+  2. **Menggunakan Keahlian yang Sesuai**: Saya akan merujuk ke pustaka keahlian kustom di direktori `.agents/skills/` sesuai dengan tipe tugas yang akan dilakukan:
+      - Jika menyusun langkah kerja, merujuk ke `plan-maker/SKILL.md`.
+      - Jika membangun fitur, merujuk ke `feature-creator/SKILL.md`.
+      - Jika menulis UI & Styling Svelte, merujuk ke `frontend-developer/SKILL.md` dan `designer/SKILL.md`.
+      - Jika menulis API & Controller, merujuk ke `backend-developer/SKILL.md` dan `sveltekit-action-api-builder/SKILL.md`.
+      - Jika memodifikasi Drizzle & DB, merujuk ke `drizzle-schema-manager/SKILL.md`.
+      - Jika berurusan dengan Vercel AI SDK & prompt LLM, merujuk ke `ai-generation-core/SKILL.md`.
+      - Jika mengaudit keamanan atau kunci lingkungan, merujuk ke `supabase-security-auditor/SKILL.md`.
+      - Jika menguji aplikasi, merujuk ke `automated-tester/SKILL.md`.
+      - Jika memecahkan masalah atau melacak bug, merujuk ke `bug-hunter/SKILL.md`.
+      - Jika melakukan pengecekan kualitas kode, merujuk ke `code-reviewer/SKILL.md`.
+
 

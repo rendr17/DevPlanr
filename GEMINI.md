@@ -141,6 +141,19 @@ When working on active development:
 2. Prioritize empirical verification. If a database modification is requested, execute migrations and verify the local schema before updating frontend pages.
 3. Write automated unit/integration tests (using Vitest or Playwright) for key user workflows (e.g., authentication state, project creation, API schemas).
 4. Do not commit or push any changes containing hardcoded test tokens or private credentials.
+5. Setiap kali Anda memberikan instruksi tugas baru atau ketika ada perubahan pada proyek:
+   - **Memeriksa Spesifikasi**: Saya akan selalu memeriksa file dokumentasi yang relevan di folder `docs/` terlebih dahulu (seperti `PRD.md`, `SPRINT_PLAN.md`, `DATABASE_SCHEMA.sql`, dll.) untuk memahami kebutuhan teknis dan alur sprint secara mendalam.
+   - **Menggunakan Keahlian yang Sesuai**: Saya akan merujuk ke pustaka keahlian kustom di direktori `.agents/skills/` sesuai dengan tipe tugas yang akan dilakukan:
+     - Jika menyusun langkah kerja, merujuk ke `plan-maker/SKILL.md`.
+     - Jika membangun fitur, merujuk ke `feature-creator/SKILL.md`.
+     - Jika menulis UI & Styling Svelte, merujuk ke `frontend-developer/SKILL.md` dan `designer/SKILL.md`.
+     - Jika menulis API & Controller, merujuk ke `backend-developer/SKILL.md` dan `sveltekit-action-api-builder/SKILL.md`.
+     - Jika memodifikasi Drizzle & DB, merujuk ke `drizzle-schema-manager/SKILL.md`.
+     - Jika berurusan dengan Vercel AI SDK & prompt LLM, merujuk ke `ai-generation-core/SKILL.md`.
+     - Jika mengaudit keamanan atau kunci lingkungan, merujuk ke `supabase-security-auditor/SKILL.md`.
+     - Jika menguji aplikasi, merujuk ke `automated-tester/SKILL.md`.
+     - Jika memecahkan masalah or melacak bug, merujuk ke `bug-hunter/SKILL.md`.
+     - Jika melakukan pengecekan kualitas kode, merujuk ke `code-reviewer/SKILL.md`.
 
 ---
 
