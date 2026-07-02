@@ -1,6 +1,6 @@
-# Step-by-Step Prompt — SpecPilot
+# Step-by-Step Prompt — DevPlanr
 
-Dokumen ini berisi prompt bertahap untuk membangun **SpecPilot**, yaitu web app AI project planner untuk developer.
+Dokumen ini berisi prompt bertahap untuk membangun **DevPlanr**, yaitu web app AI project planner untuk developer.
 
 Gunakan prompt ini di Codex, Claude, Cursor, Windsurf, atau AI coding agent lain secara berurutan. Jangan langsung meminta AI membuat seluruh aplikasi dalam satu prompt besar. Kerjakan per phase agar hasil lebih rapi dan mudah dikontrol.
 
@@ -29,9 +29,9 @@ Gunakan prompt ini pertama kali agar AI memahami keseluruhan project.
 ```txt
 You are a senior full-stack engineer, product-focused software architect, and AI application developer.
 
-We are building an MVP web app called SpecPilot.
+We are building an MVP web app called DevPlanr.
 
-SpecPilot is an AI-powered project planner for developers. It transforms rough app ideas into developer-ready technical documents, including:
+DevPlanr is an AI-powered project planner for developers. It transforms rough app ideas into developer-ready technical documents, including:
 - Product overview
 - PRD
 - User stories with acceptance criteria
@@ -93,7 +93,7 @@ Expected output from AI:
 ## Phase 1 — Initialize SvelteKit Project
 
 ```txt
-Initialize the SpecPilot MVP project using SvelteKit, TypeScript, and Tailwind CSS.
+Initialize the DevPlanr MVP project using SvelteKit, TypeScript, and Tailwind CSS.
 
 Requirements:
 1. Create or verify the SvelteKit project setup.
@@ -136,7 +136,7 @@ git commit -m "chore: initialize sveltekit project structure"
 ## Phase 2 — Base UI System
 
 ```txt
-Build the base UI system for SpecPilot.
+Build the base UI system for DevPlanr.
 
 Create reusable components using Tailwind CSS only. Keep components lightweight.
 
@@ -192,7 +192,7 @@ git commit -m "feat: add base ui components"
 ## Phase 3 — Landing Page
 
 ```txt
-Create the SpecPilot landing page.
+Create the DevPlanr landing page.
 
 Use the content and direction from README.md, PRD.md, and design.md.
 
@@ -207,7 +207,7 @@ Landing page sections:
 
 Hero copy:
 Title: From rough idea to developer-ready specification.
-Subtitle: SpecPilot helps developers transform simple app ideas into PRDs, user stories, database schemas, API endpoints, test cases, sprint plans, and AI coding prompts.
+Subtitle: DevPlanr helps developers transform simple app ideas into PRDs, user stories, database schemas, API endpoints, test cases, sprint plans, and AI coding prompts.
 CTA: Start Planning
 Secondary CTA: View Example
 
@@ -243,7 +243,7 @@ git commit -m "feat: create landing page"
 ## Phase 4 — Supabase and Environment Setup
 
 ```txt
-Set up Supabase and environment configuration for SpecPilot.
+Set up Supabase and environment configuration for DevPlanr.
 
 Requirements:
 1. Add Supabase client configuration.
@@ -440,7 +440,7 @@ git commit -m "feat: add dashboard and project management"
 ## Phase 8 — AI Generation Core
 
 ```txt
-Implement the AI generation core for SpecPilot.
+Implement the AI generation core for DevPlanr.
 
 Use AI_PROMPTS.md as the source of truth.
 
@@ -610,7 +610,7 @@ git commit -m "feat: add markdown export"
 ## Phase 11 — Security, RLS, and Validation
 
 ```txt
-Harden SpecPilot security.
+Harden DevPlanr security.
 
 Requirements:
 1. Enable Supabase RLS for all user-owned tables.
@@ -652,7 +652,7 @@ git commit -m "chore: harden security and rls policies"
 ## Phase 12 — Polish and Deployment
 
 ```txt
-Prepare SpecPilot for portfolio-ready deployment.
+Prepare DevPlanr for portfolio-ready deployment.
 
 Requirements:
 1. Polish landing page UI.
@@ -696,7 +696,7 @@ git commit -m "chore: polish and prepare deployment"
 Gunakan prompt ini setelah semua phase selesai.
 
 ```txt
-Review the entire SpecPilot codebase as a senior full-stack engineer.
+Review the entire DevPlanr codebase as a senior full-stack engineer.
 
 Check for:
 1. TypeScript errors

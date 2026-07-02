@@ -1,1 +1,1 @@
--- Optional seed data for SpecPilot templates.
+-- Optional seed data for DevPlanr templates.

@@ -1,8 +1,8 @@
-# Sprint Plan - SpecPilot
+# Sprint Plan - DevPlanr
 
 ## 1. Overview
 
-This sprint plan breaks SpecPilot MVP into 5 development sprints. Each sprint is designed to produce a usable increment.
+This sprint plan breaks DevPlanr MVP into 5 development sprints. Each sprint is designed to produce a usable increment.
 
 Estimated total duration:
 

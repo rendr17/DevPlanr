@@ -5,11 +5,11 @@ description: Manage Drizzle ORM schemas, database migrations, connection setting
 
 # Drizzle Schema Manager - Instructions & Guidelines
 
-Use this skill when you need to create, update, or verify the database schemas, run migrations, or write database queries using Drizzle ORM in the SpecPilot project.
+Use this skill when you need to create, update, or verify the database schemas, run migrations, or write database queries using Drizzle ORM in the DevPlanr project.
 
 ## 1. Schema Definition Guidelines
 
-Drizzle schemas are defined in [src/lib/server/db/schema.ts](file:///C:/Users/kueoi/Downloads/Rendi_/RENDI/Portofolio/ai_spec/specpilot-app-structure/src/lib/server/db/schema.ts) (or its splits) and MUST mirror [DATABASE_SCHEMA.sql](file:///C:/Users/kueoi/Downloads/Rendi_/RENDI/Portofolio/ai_spec/DATABASE_SCHEMA.sql) exactly.
+Drizzle schemas are defined in [src/lib/server/db/schema.ts](file:///C:/Users/kueoi/Downloads/Rendi_/RENDI/Portofolio/ai_spec/DevPlanr-app-structure/src/lib/server/db/schema.ts) (or its splits) and MUST mirror [DATABASE_SCHEMA.sql](file:///C:/Users/kueoi/Downloads/Rendi_/RENDI/Portofolio/ai_spec/DATABASE_SCHEMA.sql) exactly.
 
 ### Table Definitions Mapping:
 - **`users_profile`**: Holds user profiles linked to Supabase Auth `auth.users(id)`.

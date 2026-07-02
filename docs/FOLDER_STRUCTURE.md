@@ -1,6 +1,6 @@
-# Folder Structure — SpecPilot
+# Folder Structure — DevPlanr
 
-Dokumen ini menjelaskan struktur folder yang disarankan untuk project **SpecPilot**.
+Dokumen ini menjelaskan struktur folder yang disarankan untuk project **DevPlanr**.
 
 Struktur ini dirancang untuk SvelteKit + TypeScript + Tailwind CSS + Supabase + Drizzle + Vercel AI SDK.
 
@@ -9,7 +9,7 @@ Struktur ini dirancang untuk SvelteKit + TypeScript + Tailwind CSS + Supabase + 
 ## Root Structure
 
 ```txt
-specpilot/
+DevPlanr/
 ├── docs/
 │   ├── README.md
 │   ├── PRD.md
@@ -654,7 +654,7 @@ Untuk MVP awal, minimal folder ini harus ada:
 Di dalam ZIP, saya juga menyertakan folder skeleton:
 
 ```txt
-specpilot-app-structure/
+DevPlanr-app-structure/
 ```
 
 Folder tersebut berisi struktur direktori kosong dengan file `.gitkeep`, supaya bisa langsung dicopy ke repo utama.

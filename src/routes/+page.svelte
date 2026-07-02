@@ -24,7 +24,7 @@
 
       <!-- Description -->
       <p class="text-base sm:text-lg text-zinc-400 max-w-2xl mx-auto leading-relaxed">
-        Stop coding in the dark. SpecPilot compiles product specifications, database schemas, user stories, and complete prompt guides in minutes. Start projects with solid documentation.
+        Stop coding in the dark. DevPlanr compiles product specifications, database schemas, user stories, and complete prompt guides in minutes. Start projects with solid documentation.
       </p>
 
       <!-- CTA Buttons -->
@@ -42,7 +42,7 @@
   <!-- Core Deliverables / Features Grid -->
   <section class="max-w-7xl mx-auto px-6 py-16 w-full border-t border-zinc-900">
     <div class="text-center max-w-2xl mx-auto mb-12 space-y-2">
-      <h2 class="text-2xl sm:text-3xl font-bold text-white">SpecPilot Deliverables</h2>
+      <h2 class="text-2xl sm:text-3xl font-bold text-white">DevPlanr Deliverables</h2>
       <p class="text-sm text-zinc-400">Generate structural repo specification files instantly.</p>
     </div>
 
@@ -84,6 +84,6 @@
 
   <!-- Footer -->
   <footer class="border-t border-zinc-900 py-8 bg-zinc-950 text-center text-xs text-zinc-500">
-    <p>&copy; {new Date().getFullYear()} SpecPilot. Ready for AI-assisted workspace planning.</p>
+    <p>&copy; {new Date().getFullYear()} DevPlanr. Ready for AI-assisted workspace planning.</p>
   </footer>
 </div>

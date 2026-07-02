@@ -5,10 +5,10 @@ description: Guidelines for compiling prompts, calling the Vercel AI SDK with st
 
 # AI Generation Core - Instructions & Guidelines
 
-Use this skill when implementing or updating the AI generation engine, prompt templates, structured output configuration, or token logging in SpecPilot.
+Use this skill when implementing or updating the AI generation engine, prompt templates, structured output configuration, or token logging in DevPlanr.
 
 ## 1. Directory & File Placement
-- **AI Service / Wrapper**: [src/lib/server/ai/index.ts](file:///C:/Users/kueoi/Downloads/Rendi_/RENDI/Portofolio/ai_spec/specpilot-app-structure/src/lib/server/ai/index.ts) or equivalent under `src/lib/server/services/`.
+- **AI Service / Wrapper**: [src/lib/server/ai/index.ts](file:///C:/Users/kueoi/Downloads/Rendi_/RENDI/Portofolio/ai_spec/DevPlanr-app-structure/src/lib/server/ai/index.ts) or equivalent under `src/lib/server/services/`.
 - **System & User Prompt Compilers**: `src/lib/server/services/prompt.ts`.
 - **Output Zod Schema**: `src/lib/schemas/generation.ts`.
 

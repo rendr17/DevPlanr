@@ -1,6 +1,6 @@
-# SpecPilot Workspace Rules
+# DevPlanr Workspace Rules
 
-These guidelines are automatically applied to all tasks performed within the SpecPilot workspace.
+These guidelines are automatically applied to all tasks performed within the DevPlanr workspace.
 
 ## 1. Coding Style & Language Requirements
 - **Strict TypeScript**: Do not use `any` casting. Properly type all Svelte components, helper utilities, and database adapters.

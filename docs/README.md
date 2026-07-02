@@ -1,6 +1,6 @@
-# SpecPilot
+# DevPlanr
 
-**SpecPilot** is an AI-powered project planner for developers. It transforms rough app ideas into developer-ready technical documents such as PRDs, user stories, database schemas, API endpoints, task breakdowns, AI coding prompts, test cases, and sprint estimations.
+**DevPlanr** is an AI-powered project planner for developers. It transforms rough app ideas into developer-ready technical documents such as PRDs, user stories, database schemas, API endpoints, task breakdowns, AI coding prompts, test cases, and sprint estimations.
 
 Example input:
 
@@ -23,7 +23,7 @@ Example output:
 
 ## Product Vision
 
-SpecPilot helps developers start projects with better planning instead of jumping directly into code. The goal is to make AI-assisted development more structured by producing clear specifications that can be used by developers and AI coding agents.
+DevPlanr helps developers start projects with better planning instead of jumping directly into code. The goal is to make AI-assisted development more structured by producing clear specifications that can be used by developers and AI coding agents.
 
 ## Target Users
 
@@ -52,7 +52,7 @@ SpecPilot helps developers start projects with better planning instead of jumpin
 
 ### Generated Documents
 
-SpecPilot generates:
+DevPlanr generates:
 
 1. Product overview
 2. PRD

@@ -1,4 +1,4 @@
--- SpecPilot Database Schema
+-- DevPlanr Database Schema
 -- Target: Supabase PostgreSQL
 -- Notes:
 -- 1. Run this in Supabase SQL editor or through your migration tool.

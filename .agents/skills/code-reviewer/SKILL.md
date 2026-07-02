@@ -5,7 +5,7 @@ description: Technical code reviewer for assessing SvelteKit, Drizzle, and TypeS
 
 # Code Reviewer - Code Quality & Security Checklist
 
-Use this skill when reviewing pull requests, checking your own modifications before submitting, or verifying another agent's work in SpecPilot.
+Use this skill when reviewing pull requests, checking your own modifications before submitting, or verifying another agent's work in DevPlanr.
 
 ## 1. Security & Authorization Auditing
 - **Check**: Look for any db queries to `projects`, `project_inputs`, `generated_documents`, or `generation_runs`.

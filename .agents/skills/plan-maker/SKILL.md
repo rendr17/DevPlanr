@@ -5,7 +5,7 @@ description: Plan creator for breaking down feature requests into detailed step-
 
 # Plan Maker - Instructions & Guidelines
 
-Use this skill when you need to design or draft an implementation plan for new features, tasks, or refactoring in SpecPilot.
+Use this skill when you need to design or draft an implementation plan for new features, tasks, or refactoring in DevPlanr.
 
 ## 1. Planning Methodology
 Every plan must align with the MVP goals outlined in [SPRINT_PLAN.md](file:///C:/Users/kueoi/Downloads/Rendi_/RENDI/Portofolio/ai_spec/SPRINT_PLAN.md). Follow the "Definition of Ready" and "Definition of Done".

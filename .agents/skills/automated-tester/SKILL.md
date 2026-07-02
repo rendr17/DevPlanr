@@ -5,7 +5,7 @@ description: Unit and integration testing guide utilizing Vitest and Playwright 
 
 # Automated Tester - Testing Guidelines
 
-Use this skill when writing unit tests for helper services (e.g. prompt compilation, markdown parsing) or integration tests for SvelteKit page routes and database actions in SpecPilot.
+Use this skill when writing unit tests for helper services (e.g. prompt compilation, markdown parsing) or integration tests for SvelteKit page routes and database actions in DevPlanr.
 
 ## 1. Unit Testing with Vitest
 Use **Vitest** for testing business logic, prompts compilers, and schemas.

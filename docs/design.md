@@ -1,8 +1,8 @@
-# Design Guide - SpecPilot
+# Design Guide - DevPlanr
 
 ## 1. Design Direction
 
-SpecPilot should feel like a modern developer SaaS product.
+DevPlanr should feel like a modern developer SaaS product.
 
 Design keywords:
 
@@ -23,7 +23,7 @@ The design should not feel like a generic admin dashboard. It should feel like a
 ### Product Name
 
 ```txt
-SpecPilot
+DevPlanr
 ```
 
 ### Tagline
@@ -165,7 +165,7 @@ Title:
 From rough idea to developer-ready specification.
 
 Subtitle:
-SpecPilot helps developers transform simple app ideas into PRDs, user stories, database schemas, API endpoints, test cases, sprint plans, and AI coding prompts.
+DevPlanr helps developers transform simple app ideas into PRDs, user stories, database schemas, API endpoints, test cases, sprint plans, and AI coding prompts.
 
 Primary CTA:
 Start Planning
@@ -436,7 +436,7 @@ For first-time users:
 
 ```txt
 Start with a rough idea.
-SpecPilot will turn it into a complete developer-ready plan.
+DevPlanr will turn it into a complete developer-ready plan.
 ```
 
 ### Error State

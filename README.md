@@ -1,6 +1,6 @@
-# SpecPilot
+# DevPlanr
 
-**SpecPilot** is an AI-powered project planner for developers. It transforms rough app ideas into developer-ready technical documents such as PRDs, user stories, database schemas, API endpoints, task breakdowns, AI coding prompts, test cases, and sprint estimations.
+**DevPlanr** is an AI-powered project planner for developers. It transforms rough app ideas into developer-ready technical documents such as PRDs, user stories, database schemas, API endpoints, task breakdowns, AI coding prompts, test cases, and sprint estimations.
 
 ## 🚀 Quick Start & Local Setup
 
@@ -41,7 +41,7 @@ npm run check
 ## 📁 Repository Structure
 
 ```txt
-specpilot/
+DevPlanr/
 ├── .agents/              # AI custom skills and workspace rules
 ├── docs/                 # Product and technical specifications
 ├── src/

@@ -6,15 +6,15 @@
 
 ---
 
-# SpecPilot - Project Instructions & Guidelines
+# DevPlanr - Project Instructions & Guidelines
 
-Welcome to the SpecPilot repository! This document serves as the central guidance hub (`GEMINI.md`) for developers and AI assistants working on this codebase. It outlines the architecture, coding standards, database guidelines, API protocols, and UI design patterns required to build SpecPilot.
+Welcome to the DevPlanr repository! This document serves as the central guidance hub (`GEMINI.md`) for developers and AI assistants working on this codebase. It outlines the architecture, coding standards, database guidelines, API protocols, and UI design patterns required to build DevPlanr.
 
 ---
 
 ## 1. Project Overview & Architecture
 
-**SpecPilot** is an AI-powered project planner that converts raw app ideas into structured, developer-ready technical documentation.
+**DevPlanr** is an AI-powered project planner that converts raw app ideas into structured, developer-ready technical documentation.
 
 ### Recommended Tech Stack
 - **Frontend Framework**: SvelteKit (with TypeScript)
@@ -121,7 +121,7 @@ Standard error codes include:
 
 ## 5. UI/UX & Design Guidelines
 
-As established in [design.md](file:///C:/Users/kueoi/Downloads/Rendi_/RENDI/Portofolio/ai_spec/docs/design.md), SpecPilot aims to deliver a premium, minimal, developer-focused dark-mode friendly user interface. Selalu merujuk ke berkas [design.md](file:///C:/Users/kueoi/Downloads/Rendi_/RENDI/Portofolio/ai_spec/docs/design.md) untuk semua panduan implementasi UI/UX.
+As established in [design.md](file:///C:/Users/kueoi/Downloads/Rendi_/RENDI/Portofolio/ai_spec/docs/design.md), DevPlanr aims to deliver a premium, minimal, developer-focused dark-mode friendly user interface. Selalu merujuk ke berkas [design.md](file:///C:/Users/kueoi/Downloads/Rendi_/RENDI/Portofolio/ai_spec/docs/design.md) untuk semua panduan implementasi UI/UX.
 
 ### 5.1 Color Palette Usage
 - Make extensive use of Tailwind class names.
@@ -157,4 +157,4 @@ When working on active development:
 
 ---
 
-*This document is a foundational mandate for the SpecPilot project. Update it only when project-wide conventions or tech stack requirements are formally modified.*
+*This document is a foundational mandate for the DevPlanr project. Update it only when project-wide conventions or tech stack requirements are formally modified.*

@@ -5,7 +5,7 @@ description: Security scanner and auditor for ensuring Supabase Row Level Securi
 
 # Supabase Security Auditor - Security Checklist
 
-Use this skill when designing tables, updating SQL definitions, deploying the Supabase backend, or auditing authentication routines in SpecPilot.
+Use this skill when designing tables, updating SQL definitions, deploying the Supabase backend, or auditing authentication routines in DevPlanr.
 
 ## 1. Row Level Security (RLS) Verification
 Every database table created in Supabase (with the exception of read-only public lookup tables if necessary) MUST have RLS enabled.
@@ -29,7 +29,7 @@ Every database table created in Supabase (with the exception of read-only public
     ```
 
 ## 2. Secrets Leak Prevention
-SpecPilot utilizes two tiers of keys for Supabase:
+DevPlanr utilizes two tiers of keys for Supabase:
 - **`PUBLIC_SUPABASE_ANON_KEY`**: Safe to expose to the client browser. Can only access tables matching RLS policies.
 - **`SUPABASE_SERVICE_ROLE_KEY`**: Bypasses all RLS policies. **NEVER** expose this key to client-side code.
 

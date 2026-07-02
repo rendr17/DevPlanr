@@ -5,7 +5,7 @@ description: Step-by-step feature implementation guide for scaffolding pages, wr
 
 # Feature Creator - Implementation Guide
 
-Use this skill when developing a new feature from scratch or expanding an existing feature (such as adding document history, public shares, or export styles) in SpecPilot.
+Use this skill when developing a new feature from scratch or expanding an existing feature (such as adding document history, public shares, or export styles) in DevPlanr.
 
 ## 1. Feature Architecture Workflow
 
@@ -58,7 +58,7 @@ Use TypeScript inside the script block and export props cleanly:
 ```
 
 ## 4. UI Icons Integration
-Always use **Lucide Icons** (`lucide-svelte`) for standard glyphs, following the SpecPilot aesthetic.
+Always use **Lucide Icons** (`lucide-svelte`) for standard glyphs, following the DevPlanr aesthetic.
 ```html
 <script lang="ts">
   import { Plus, FolderPlus, Settings } from 'lucide-svelte';

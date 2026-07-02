@@ -1,8 +1,8 @@
-# Technical Specification - SpecPilot
+# Technical Specification - DevPlanr
 
 ## 1. Overview
 
-SpecPilot is a full-stack AI-powered web application that converts rough software ideas into structured developer-ready documentation.
+DevPlanr is a full-stack AI-powered web application that converts rough software ideas into structured developer-ready documentation.
 
 The app consists of:
 

@@ -5,7 +5,7 @@ description: Backend developer guidelines for database design, services logic, V
 
 # Backend Developer - Server Implementation Guidelines
 
-Use this skill when designing backend APIs, handling authentication checks, database query transactions, and calling LLM APIs in SpecPilot.
+Use this skill when designing backend APIs, handling authentication checks, database query transactions, and calling LLM APIs in DevPlanr.
 
 ## 1. Authentication & Guarding in SvelteKit
 We utilize Supabase Auth with custom middleware in `src/hooks.server.ts` to check sessions.

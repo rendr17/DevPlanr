@@ -1,14 +1,14 @@
 ---
 name: designer
-description: UI/UX designer instructions for implementing SpecPilot's premium developer-focused dark-mode theme, gradients, layout structures, and micro-animations.
+description: UI/UX designer instructions for implementing DevPlanr's premium developer-focused dark-mode theme, gradients, layout structures, and micro-animations.
 ---
 
 # Designer - UI/UX Styling & Theme Guidelines
 
-Use this skill when designing pages, mockups, or custom CSS definitions to ensure SpecPilot maintains a sleek, premium, developer-focused aesthetic.
+Use this skill when designing pages, mockups, or custom CSS definitions to ensure DevPlanr maintains a sleek, premium, developer-focused aesthetic.
 
 ## 1. Visual Aesthetics & Theme Guidelines
-SpecPilot is built with a developer-first dark mode aesthetic. Keep design minimal, modern, and high-contrast.
+DevPlanr is built with a developer-first dark mode aesthetic. Keep design minimal, modern, and high-contrast.
 
 - **Primary Background**: Use very dark zinc/slate shades (`bg-zinc-950` or `#09090b`).
 - **Surface Panels**: Use slightly lighter shades (`bg-zinc-900` or `#18181b`) with thin borders (`border-zinc-800` or `border-zinc-850`).

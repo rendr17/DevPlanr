@@ -1,8 +1,8 @@
-# API Specification - SpecPilot
+# API Specification - DevPlanr
 
 ## 1. Overview
 
-This document describes the API endpoints required for SpecPilot MVP.
+This document describes the API endpoints required for DevPlanr MVP.
 
 Base path:
 

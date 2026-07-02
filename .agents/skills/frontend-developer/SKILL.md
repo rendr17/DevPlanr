@@ -8,7 +8,7 @@ description: Frontend developer guidelines for building sleek, premium, responsi
 Use this skill when designing Svelte pages, components, managing states, configuring interactive layouts, or applying styling classes.
 
 ## 1. Responsive & Premium Layouts
-SpecPilot uses a developer-focused aesthetic (minimalist dark mode, sleek accents, clean fonts).
+DevPlanr uses a developer-focused aesthetic (minimalist dark mode, sleek accents, clean fonts).
 - Use Tailwind classes for flexible grids and flexbox structures.
 - Support wide monitors (e.g. max-w-7xl centered layouts or dual-pane grids) and mobile viewports.
 - Always wrap main workspaces with a responsive sidebar navigation component.

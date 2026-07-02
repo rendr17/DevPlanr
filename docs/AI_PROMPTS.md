@@ -1,10 +1,10 @@
-# AI Prompts - SpecPilot
+# AI Prompts - DevPlanr
 
 ## 1. Purpose
 
-This document contains the prompt designs used by SpecPilot to generate developer-ready technical documents.
+This document contains the prompt designs used by DevPlanr to generate developer-ready technical documents.
 
-SpecPilot should avoid vague prompts. The AI must receive structured context and clear output expectations.
+DevPlanr should avoid vague prompts. The AI must receive structured context and clear output expectations.
 
 ## 2. Main System Prompt
 
@@ -418,7 +418,7 @@ Implementation rules:
 
 ## 17. Prompt Quality Rules
 
-Good SpecPilot prompts must:
+Good DevPlanr prompts must:
 
 - Include clear project context.
 - Avoid vague wording.

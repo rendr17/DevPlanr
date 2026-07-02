@@ -1,19 +1,19 @@
-# PRD - SpecPilot
+# PRD - DevPlanr
 
 ## 1. Product Summary
 
-**Product Name:** SpecPilot  
+**Product Name:** DevPlanr  
 **Category:** AI Developer Productivity Tool  
 **Platform:** Web App  
 **Primary Users:** Developers, product managers, founders, technical leads, students, and AI-assisted developers.
 
-SpecPilot is a web application that turns rough app ideas into developer-ready technical documents. A user enters a short project idea, selects app context and preferences, then SpecPilot generates a complete planning package including PRD, user stories, database schema, API endpoints, task breakdown, AI coding prompt, test cases, and sprint estimation.
+DevPlanr is a web application that turns rough app ideas into developer-ready technical documents. A user enters a short project idea, selects app context and preferences, then DevPlanr generates a complete planning package including PRD, user stories, database schema, API endpoints, task breakdown, AI coding prompt, test cases, and sprint estimation.
 
 ## 2. Background
 
 Modern developers increasingly use AI coding agents such as Codex, Claude, Cursor, Windsurf, and Devin. These tools work best when they receive clear technical specifications. Many projects fail or become messy not because of coding difficulty, but because the project starts without a clear plan.
 
-SpecPilot solves this by creating structured development documents before coding begins.
+DevPlanr solves this by creating structured development documents before coding begins.
 
 ## 3. Problem Statement
 
@@ -33,7 +33,7 @@ As a result, users either spend too much time planning manually or start coding 
 
 ## 4. Goals
 
-SpecPilot aims to:
+DevPlanr aims to:
 
 1. Help developers transform rough ideas into clear technical plans.
 2. Reduce the time needed to create early project documentation.
@@ -115,9 +115,9 @@ Needs:
 
 ## 7. Value Proposition
 
-SpecPilot turns rough app ideas into implementation-ready documentation in minutes.
+DevPlanr turns rough app ideas into implementation-ready documentation in minutes.
 
-Without SpecPilot:
+Without DevPlanr:
 
 1. User has an idea.
 2. User is unsure where to start.
@@ -125,10 +125,10 @@ Without SpecPilot:
 4. AI produces inconsistent output.
 5. Project structure becomes messy.
 
-With SpecPilot:
+With DevPlanr:
 
 1. User enters an idea.
-2. SpecPilot generates structured technical documents.
+2. DevPlanr generates structured technical documents.
 3. User reviews and edits the result.
 4. User exports or copies the output.
 5. User gives a better prompt to an AI coding agent.

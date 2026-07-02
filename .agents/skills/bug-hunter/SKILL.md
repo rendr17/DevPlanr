@@ -5,10 +5,10 @@ description: Debugger and bug hunter for identifying typescript compilation issu
 
 # Bug Hunter - Debugging & Diagnostic Protocol
 
-Use this skill when you encounter application crashes, database failures, hydration issues, compiler errors, or test suite failures in SpecPilot.
+Use this skill when you encounter application crashes, database failures, hydration issues, compiler errors, or test suite failures in DevPlanr.
 
 ## 1. Strict TypeScript Diagnostics
-SpecPilot enforces strict TypeScript with NO `any` casting.
+DevPlanr enforces strict TypeScript with NO `any` casting.
 - **Action**: Check types defined in `src/lib/types/` or locally.
 - **Common Fix**: Define concrete interfaces or fetch DB-return types using Drizzle helper utilities:
   ```typescript

@@ -1,6 +1,6 @@
 ---
 name: sveltekit-action-api-builder
-description: Standards and templates for SvelteKit Server Actions, API routes, Zod validation, and error payload formatting in SpecPilot.
+description: Standards and templates for SvelteKit Server Actions, API routes, Zod validation, and error payload formatting in DevPlanr.
 ---
 
 # SvelteKit Actions & API Builder - Instructions & Guidelines
@@ -9,7 +9,7 @@ Use this skill when implementing SvelteKit Server Actions (for forms) and API en
 
 ## 1. Choosing Between Actions and API Endpoints
 
-Refer to the SpecPilot architectural standards:
+Refer to the DevPlanr architectural standards:
 - **Use Server Actions** (`+page.server.ts` or `+page.server.js`) for standard form submissions (e.g., login, register, new project form, updates).
 - **Use API Endpoints** (`src/routes/api/...`) for async operations, client-side fetches, polling, generation triggers, or exporting.
 

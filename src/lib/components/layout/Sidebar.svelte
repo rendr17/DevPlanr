@@ -23,7 +23,7 @@
       </div>
       <div class="flex-1 overflow-hidden">
         <p class="text-sm font-medium text-white truncate">Demo User</p>
-        <p class="text-xs text-zinc-400 truncate">demo@specpilot.dev</p>
+        <p class="text-xs text-zinc-400 truncate">demo@DevPlanr.dev</p>
       </div>
     </div>
   </div>
