@@ -124,7 +124,7 @@ Manual test checklist:
 [ ] no TypeScript error
 ```
 
-Recommended commit:
+Recommended commit: commit ke https://github.com/rendr17/DevPlanr.git
 
 ```txt
 git add .
