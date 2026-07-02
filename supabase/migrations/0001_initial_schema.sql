@@ -1,0 +1,1 @@
+-- Copy or adapt the schema from docs/DATABASE_SCHEMA.sql.
