@@ -43,20 +43,20 @@ From rough idea to developer-ready specification.
 
 ## 3. Color System
 
-### Light Mode
+### Light Mode (Premium Theme)
 
 ```txt
-Background      : #F8FAFC
-Surface         : #FFFFFF
-Surface Muted   : #F1F5F9
-Border          : #E2E8F0
-Text Primary    : #0F172A
-Text Secondary  : #475569
-Text Muted      : #64748B
-Primary         : #2563EB
-Primary Hover   : #1D4ED8
-Accent Green    : #22C55E
-Accent Orange   : #F97316
+Background      : #FAF9F6 (Warm off-white / cream)
+Surface         : #FFFFFF (Pure White)
+Surface Muted   : #F4F3EE (Soft Muted surface)
+Border          : #EAEAE4 (Subtle warm border)
+Text Primary    : #0D0D0D (Rich near-black)
+Text Secondary  : #4D4D4D (Deep graphite)
+Text Muted      : #808080 (Medium gray)
+Primary         : #0D0D0D (Rich near-black button/actions)
+Primary Hover   : #262626 (Slightly lighter primary hover)
+Accent Lime     : #D9F96D (Lime green highlight)
+Accent Blue     : #4648D4 (Underline swash / focus state)
 Danger          : #EF4444
 Warning         : #F59E0B
 ```
@@ -152,34 +152,42 @@ Mobile layout:
 
 ## 6. Landing Page Specification
 
-### 6.1 Hero
+### 6.1 Hero & Visual Style
 
 Goal:
 
-Explain the product in one glance.
+Explain the product in one glance using high-contrast bold typography and premium visual assets.
 
 Content:
 
 ```txt
+Badge:
+[2026 Release] What's new in DevPlanr >
+
 Title:
-From rough idea to developer-ready specification.
+AI planning for developer teams
 
 Subtitle:
-DevPlanr helps developers transform simple app ideas into PRDs, user stories, database schemas, API endpoints, test cases, sprint plans, and AI coding prompts.
+DevPlanr helps developer teams ideate, plan, and structure beautiful apps — faster, together.
 
 Primary CTA:
-Start Planning
+Start planning for free
 
 Secondary CTA:
-View Example
+Watch demo
 ```
 
 Visual idea:
 
-- Left side: headline and CTA.
-- Right side: mockup card showing input and generated output.
-- Use subtle gradient background.
-- Add small badge: "Built for AI-assisted developers".
+- Background: Clean, warm off-white (`#FAF9F6`).
+- Title: Heavy bold typography, "developer" highlighted with an orange-to-peach gradient, and "teams" underlined with a hand-drawn SVG loop.
+- Icons: Purple hand-drawn style sparkles overlaying the top-left of the headline.
+- Right side: Floating 3D illustration asset of glossy tubes and floral shapes.
+- Under the Hero: Trusted-by section displaying tech logos in clean grayscale.
+- Bottom of Hero: Three key feature overview cards:
+  1. Roadmaps & PRD (white, asterisk icon, color palettes).
+  2. Ship with Confidence (lime green background `#D4F973`, asterisk icon, "Approved" checkmark badge).
+  3. AI Agent Prompts (white, asterisk icon, developer avatars).
 
 ### 6.2 Problem Section
 
