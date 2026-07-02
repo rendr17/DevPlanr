@@ -121,7 +121,7 @@ Standard error codes include:
 
 ## 5. UI/UX & Design Guidelines
 
-As established in `design.md`, SpecPilot aims to deliver a premium, minimal, developer-focused dark-mode friendly user interface.
+As established in [design.md](file:///C:/Users/kueoi/Downloads/Rendi_/RENDI/Portofolio/ai_spec/docs/design.md), SpecPilot aims to deliver a premium, minimal, developer-focused dark-mode friendly user interface. Selalu merujuk ke berkas [design.md](file:///C:/Users/kueoi/Downloads/Rendi_/RENDI/Portofolio/ai_spec/docs/design.md) untuk semua panduan implementasi UI/UX.
 
 ### 5.1 Color Palette Usage
 - Make extensive use of Tailwind class names.

@@ -12,6 +12,7 @@ These guidelines are automatically applied to all tasks performed within the Spe
 - **Secret Leaks**: Never print, log, or commit private keys (`service_role` key, OpenAI/Anthropic API keys). Ensure they are loaded via `$env/static/private` or `$env/dynamic/private`.
 
 ## 3. UI/UX & Design Alignment
+- **Design Reference**: Untuk semua implementasi UI/UX, Anda wajib selalu merujuk ke file spesifikasi desain di [design.md](file:///C:/Users/kueoi/Downloads/Rendi_/RENDI/Portofolio/ai_spec/docs/design.md).
 - **Aesthetic Excellence**: Follow the sleek, premium dark-mode theme instructions.
 - **Tailwind**: Utilize Tailwind CSS classes. Use the `dark:` prefix for dark mode capability.
 - **Visual Skeletons & Code Highlighting**: Use skeleton screens for loading generated documents and always embed code snippets in copyable, formatted markdown code-blocks.
