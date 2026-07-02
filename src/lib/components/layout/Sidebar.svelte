@@ -5,7 +5,7 @@
 <aside class="w-64 bg-zinc-900 border-r border-zinc-800 flex flex-col h-full hidden md:flex">
   <div class="p-6 border-b border-zinc-800 font-bold text-xl text-white">
     <a href="/" class="flex items-center gap-2">
-      <span class="text-indigo-500">Spec</span>Pilot
+      <span class="text-indigo-500">Dev</span>Planr
     </a>
   </div>
   <nav class="flex-1 p-4 space-y-1">
